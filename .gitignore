@@ -1,0 +1,5 @@
+# created on 2021年 06月 18日 星期五 14:08:36 CST
+
+*.csv   # ignore the big data files
+*.pyc
+part1-convnet/data/cifar-10-batches-py/
