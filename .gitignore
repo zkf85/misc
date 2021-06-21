@@ -2,4 +2,5 @@
 
 *.csv   # ignore the big data files
 #*.pyc
+*.swp
 part1-convnet/data/cifar-10-batches-py/
